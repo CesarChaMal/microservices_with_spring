@@ -1,0 +1,11 @@
+---
+spring:
+  profiles:
+    active: southamerica
+  application:
+    name: 11_microservicesSpringCloudConfigClient
+  cloud:
+    config:
+      uri: http://localhost:8001
+server:
+  port: 8002

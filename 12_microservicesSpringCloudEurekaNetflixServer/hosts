@@ -1,0 +1,7 @@
+# place in C:\Windows\System32\drivers\etc
+# START section for Microservices with Spring Course
+127.0.0.1       eurekahost
+127.0.0.1       eureka-primary
+127.0.0.1       eureka-secondary
+127.0.0.1       eureka-tertiary
+# END section for Microservices with Spring Course

@@ -1,0 +1,28 @@
+### Maven ###
+/target/
+
+### Gradle ###
+/build/
+/.gradle/
+
+### Eclipse ###
+.classpath
+.project
+.settings
+/bin/
+/RemoteSystemsTempFiles/
+/Servers/
+/.metadata
+/.recommenders
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+### Others ###
+/ConfigData/
+/Microservices-With-Spring-Student-Files/
+/SpringBootWeb/
